@@ -1,0 +1,7 @@
+.Sidebar {
+    overflow-y: scroll;
+}
+
+.Sidebar::-webkit-scrollbar {
+  width: 1em;
+}
