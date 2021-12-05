@@ -1,6 +1,6 @@
 # Code along tutorial provied by Emanuel Ohans https://twitter.com/OhansEmmanuel
 
-This was a guided material that runs through the process of creating the front end elements of a chat application
+This was a guided tutorial that runs through the process of creating the front end elements of a chat application
 
 # Getting Started with Create React App
 
