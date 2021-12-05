@@ -1,3 +1,7 @@
+# Code along tutorial provied by Emanuel Ohans https://twitter.com/OhansEmmanuel
+
+This was a guided material that runs through the process of creating the front end elements of a chat application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
